@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi
+=======
+hey this is new
+>>>>>>> 7c47ef74be883e01afc276acacfe8e6cbf0bb66b
